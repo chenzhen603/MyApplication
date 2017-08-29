@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         ButterKnife.bind(this);
         mContext = this;
         int a = 10;
+        int b = 11;
         Log.d(TAG, "onCreate: " + a);
         AnimationSet anim = new AnimationSet(true);
         AlphaAnimation alphaAnimation = new AlphaAnimation(0, 1);
