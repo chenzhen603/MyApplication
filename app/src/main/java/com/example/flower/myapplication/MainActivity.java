@@ -2,6 +2,7 @@ package com.example.flower.myapplication;
 
 import android.content.Context;
 import android.os.Bundle;
+import android.provider.ContactsContract;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
@@ -23,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * terst*******************
+     * 88888888888888888888888888888888
+     * 777777777777777777777
      * @param savedInstanceState
      */
     @Override
