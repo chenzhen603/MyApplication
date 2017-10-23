@@ -10,8 +10,6 @@ import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
-import android.provider.ContactsContract;
-import android.provider.MediaStore;
 import android.support.annotation.NonNull;
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
@@ -22,7 +20,6 @@ import android.view.animation.AnimationSet;
 import android.view.animation.RotateAnimation;
 import android.widget.ImageView;
 import android.widget.Toast;
-
 
 import java.util.ArrayList;
 import java.util.List;
@@ -40,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * terst*******************
-     * 88888888888888888888888888888888
      * 777777777777777777777
      *
      * @param savedInstanceState
